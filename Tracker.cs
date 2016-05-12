@@ -2,6 +2,8 @@
     /// Counts unique page views for an entity
     /// Not 100% accurate, only tracks last x people
     /// and cache object is removed from memory every n hours
+    /// Copyright (c) 2016 Scirra Ltd
+    /// www.scirra.com
     /// </summary>
     public class UniquePageviewHandler
     {
